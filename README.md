@@ -279,7 +279,6 @@ Contains statistical simulation outputs including energy deposition and detector
 - C++17
 - OpenGL
 - Qt Visualization
-- CADMesh (Optional)
 
 ---
 
@@ -349,7 +348,6 @@ Future developments may include
 - Monte Carlo Simulation
 - CMake
 - Fusion 360
-- CADMesh
 - OpenGL
 - STK
 
