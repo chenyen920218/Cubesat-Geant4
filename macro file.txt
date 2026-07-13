@@ -1,0 +1,277 @@
+/run/initialize
+/gps/source/intensity 1
+/gps/particle  proton
+/gps/pos/type Surface
+/gps/pos/shape  Sphere
+/gps/pos/centre 0. 0. 0. cm
+/gps/pos/radius 40. cm
+/gps/ang/type cos
+/gps/ene/type Arb
+/gps/hist/type arb
+/gps/hist/point   1.000000E+00   1.647451E-01
+/gps/hist/point   1.100000E+00   1.262292E-01
+/gps/hist/point   1.200000E+00   9.821749E-02
+/gps/hist/point   1.400000E+00   6.182529E-02
+/gps/hist/point   1.600000E+00   4.063964E-02
+/gps/hist/point   1.800000E+00   2.768748E-02
+/gps/hist/point   2.000000E+00   1.944394E-02
+/gps/hist/point   2.200000E+00   1.401904E-02
+/gps/hist/point   2.500000E+00   8.954041E-03
+/gps/hist/point   2.800000E+00   5.975058E-03
+/gps/hist/point   3.200000E+00   3.690869E-03
+/gps/hist/point   3.500000E+00   2.668971E-03
+/gps/hist/point   4.000000E+00   1.651221E-03
+/gps/hist/point   4.500000E+00   1.089190E-03
+/gps/hist/point   5.000000E+00   7.583050E-04
+/gps/hist/point   5.500000E+00   5.528449E-04
+/gps/hist/point   6.300000E+00   3.613460E-04
+/gps/hist/point   7.100000E+00   2.562157E-04
+/gps/hist/point   8.000000E+00   1.881688E-04
+/gps/hist/point   9.000000E+00   1.442745E-04
+/gps/hist/point   1.000000E+01   1.179781E-04
+/gps/hist/point   1.100000E+01   1.014948E-04
+/gps/hist/point   1.200000E+01   9.089758E-05
+/gps/hist/point   1.400000E+01   7.971728E-05
+/gps/hist/point   1.600000E+01   7.587826E-05
+/gps/hist/point   1.800000E+01   7.604665E-05
+/gps/hist/point   2.000000E+01   7.868935E-05
+/gps/hist/point   2.200000E+01   8.300213E-05
+/gps/hist/point   2.500000E+01   9.161261E-05
+/gps/hist/point   2.800000E+01   1.019686E-04
+/gps/hist/point   3.200000E+01   1.174855E-04
+/gps/hist/point   3.500000E+01   1.299111E-04
+/gps/hist/point   4.000000E+01   1.513619E-04
+/gps/hist/point   4.500000E+01   1.731018E-04
+/gps/hist/point   5.000000E+01   1.946782E-04
+/gps/hist/point   5.500000E+01   2.158023E-04
+/gps/hist/point   6.300000E+01   2.482989E-04
+/gps/hist/point   7.100000E+01   2.789232E-04
+/gps/hist/point   8.000000E+01   3.109800E-04
+/gps/hist/point   9.000000E+01   3.436023E-04
+/gps/hist/point   1.000000E+02   3.731332E-04
+/gps/hist/point   1.100000E+02   3.997237E-04
+/gps/hist/point   1.200000E+02   4.235118E-04
+/gps/hist/point   1.400000E+02   4.635231E-04
+/gps/hist/point   1.600000E+02   4.946500E-04
+/gps/hist/point   1.800000E+02   5.228364E-04
+/gps/hist/point   2.000000E+02   5.522040E-04
+/gps/hist/point   2.200000E+02   5.754644E-04
+/gps/hist/point   2.500000E+02   5.940375E-04
+/gps/hist/point   2.800000E+02   6.065410E-04
+/gps/hist/point   3.200000E+02   6.204143E-04
+/gps/hist/point   3.500000E+02   6.196729E-04
+/gps/hist/point   4.000000E+02   6.218845E-04
+/gps/hist/point   4.500000E+02   6.142442E-04
+/gps/hist/point   5.000000E+02   5.971037E-04
+/gps/hist/point   5.500000E+02   5.810815E-04
+/gps/hist/point   6.300000E+02   5.543529E-04
+/gps/hist/point   7.100000E+02   5.287300E-04
+/gps/hist/point   8.000000E+02   4.945495E-04
+/gps/hist/point   9.000000E+02   4.621534E-04
+/gps/hist/point   1.000000E+03   4.297322E-04
+/gps/hist/point   1.100000E+03   4.021867E-04
+/gps/hist/point   1.200000E+03   3.742893E-04
+/gps/hist/point   1.400000E+03   3.279948E-04
+/gps/hist/point   1.600000E+03   2.871290E-04
+/gps/hist/point   1.800000E+03   2.543559E-04
+/gps/hist/point   2.000000E+03   2.253150E-04
+/gps/hist/point   2.200000E+03   2.007101E-04
+/gps/hist/point   2.500000E+03   1.707518E-04
+/gps/hist/point   2.800000E+03   1.465741E-04
+/gps/hist/point   3.200000E+03   1.210644E-04
+/gps/hist/point   3.500000E+03   1.061544E-04
+/gps/hist/point   4.000000E+03   8.638500E-05
+/gps/hist/point   4.500000E+03   7.153406E-05
+/gps/hist/point   5.000000E+03   6.022056E-05
+/gps/hist/point   5.500000E+03   5.131603E-05
+/gps/hist/point   6.300000E+03   4.087589E-05
+/gps/hist/point   7.100000E+03   3.367536E-05
+/gps/hist/point   8.000000E+03   2.742862E-05
+/gps/hist/point   9.000000E+03   2.199492E-05
+/gps/hist/point   1.000000E+04   1.784425E-05
+/gps/hist/point   1.100000E+04   1.460464E-05
+/gps/hist/point   1.200000E+04   1.210003E-05
+/gps/hist/point   1.400000E+04   8.574663E-06
+/gps/hist/point   1.600000E+04   6.277530E-06
+/gps/hist/point   1.800000E+04   4.731364E-06
+/gps/hist/point   2.000000E+04   3.655306E-06
+/gps/hist/point   3.000000E+04   1.309918E-06
+/gps/hist/point   4.000000E+04   6.198488E-07
+/gps/hist/point   5.000000E+04   3.441929E-07
+/gps/hist/point   6.000000E+04   2.121078E-07
+/gps/hist/point   7.000000E+04   1.405800E-07
+/gps/hist/point   8.000000E+04   9.832431E-08
+/gps/hist/point   9.000000E+04   7.166852E-08
+/gps/hist/point   1.000000E+05   5.397884E-08
+/gps/hist/inter  Lin
+/run/beamOn 100000
+/gps/source/clear
+/gps/source/list
+
+#----------------------------------------------------#
+##He
+/gps/source/add 1
+/gps/particle  ion
+/gps/ion 2 4 2
+/gps/pos/type Surface
+/gps/pos/shape  Sphere
+/gps/pos/centre 0. 0. 0. cm
+/gps/pos/radius 40. cm
+/gps/ang/type cos
+/gps/ene/type Arb
+/gps/hist/type arb
+/gps/hist/point   4.000000E+00   4.080049E-03
+/gps/hist/point   4.400000E+00   3.349189E-03
+/gps/hist/point   4.800000E+00   2.784331E-03
+/gps/hist/point   5.600000E+00   1.986743E-03
+/gps/hist/point   6.400000E+00   1.468255E-03
+/gps/hist/point   7.200000E+00   1.116610E-03
+/gps/hist/point   8.000000E+00   8.698065E-04
+/gps/hist/point   8.800000E+00   6.916279E-04
+/gps/hist/point   1.000000E+01   5.067640E-04
+/gps/hist/point   1.120000E+01   3.839277E-04
+/gps/hist/point   1.280000E+01   2.769251E-04
+/gps/hist/point   1.400000E+01   2.228017E-04
+/gps/hist/point   1.600000E+01   1.620559E-04
+/gps/hist/point   1.800000E+01   1.234470E-04
+/gps/hist/point   2.000000E+01   9.772489E-05
+/gps/hist/point   2.200000E+01   7.990955E-05
+/gps/hist/point   2.520000E+01   6.122336E-05
+/gps/hist/point   2.840000E+01   4.958564E-05
+/gps/hist/point   3.200000E+01   4.122021E-05
+/gps/hist/point   3.600000E+01   3.532784E-05
+/gps/hist/point   4.000000E+01   3.156798E-05
+/gps/hist/point   4.400000E+01   2.913639E-05
+/gps/hist/point   4.800000E+01   2.757816E-05
+/gps/hist/point   5.600000E+01   2.609784E-05
+/gps/hist/point   6.400000E+01   2.592819E-05
+/gps/hist/point   7.200000E+01   2.652384E-05
+/gps/hist/point   8.000000E+01   2.759952E-05
+/gps/hist/point   8.800000E+01   2.898685E-05
+/gps/hist/point   1.000000E+02   3.142598E-05
+/gps/hist/point   1.120000E+02   3.409759E-05
+/gps/hist/point   1.280000E+02   3.778205E-05
+/gps/hist/point   1.400000E+02   4.052906E-05
+/gps/hist/point   1.600000E+02   4.493483E-05
+/gps/hist/point   1.800000E+02   4.903398E-05
+/gps/hist/point   2.000000E+02   5.354782E-05
+/gps/hist/point   2.200000E+02   5.823005E-05
+/gps/hist/point   2.520000E+02   6.436872E-05
+/gps/hist/point   2.840000E+02   6.919295E-05
+/gps/hist/point   3.200000E+02   7.416923E-05
+/gps/hist/point   3.600000E+02   7.951748E-05
+/gps/hist/point   4.000000E+02   8.314288E-05
+/gps/hist/point   4.400000E+02   8.716788E-05
+/gps/hist/point   4.800000E+02   9.018758E-05
+/gps/hist/point   5.600000E+02   9.407813E-05
+/gps/hist/point   6.400000E+02   9.632877E-05
+/gps/hist/point   7.200000E+02   9.773997E-05
+/gps/hist/point   8.000000E+02   9.892247E-05
+/gps/hist/point   8.800000E+02   9.923160E-05
+/gps/hist/point   1.000000E+03   9.810565E-05
+/gps/hist/point   1.120000E+03   9.722726E-05
+/gps/hist/point   1.280000E+03   9.454560E-05
+/gps/hist/point   1.400000E+03   9.273730E-05
+/gps/hist/point   1.600000E+03   8.897995E-05
+/gps/hist/point   1.800000E+03   8.524397E-05
+/gps/hist/point   2.000000E+03   8.157585E-05
+/gps/hist/point   2.200000E+03   7.765891E-05
+/gps/hist/point   2.520000E+03   7.197640E-05
+/gps/hist/point   2.840000E+03   6.671109E-05
+/gps/hist/point   3.200000E+03   6.109392E-05
+/gps/hist/point   3.600000E+03   5.565897E-05
+/gps/hist/point   4.000000E+03   5.070907E-05
+/gps/hist/point   4.400000E+03   4.635608E-05
+/gps/hist/point   4.800000E+03   4.247433E-05
+/gps/hist/point   5.600000E+03   3.591469E-05
+/gps/hist/point   6.400000E+03   3.065566E-05
+/gps/hist/point   7.200000E+03   2.643336E-05
+/gps/hist/point   8.000000E+03   2.301405E-05
+/gps/hist/point   8.800000E+03   2.022683E-05
+/gps/hist/point   1.000000E+04   1.685527E-05
+/gps/hist/point   1.120000E+04   1.432566E-05
+/gps/hist/point   1.280000E+04   1.185800E-05
+/gps/hist/point   1.400000E+04   1.035406E-05
+/gps/hist/point   1.600000E+04   8.291040E-06
+/gps/hist/point   1.800000E+04   6.709436E-06
+/gps/hist/point   2.000000E+04   5.479063E-06
+/gps/hist/point   2.200000E+04   4.525904E-06
+/gps/hist/point   2.520000E+04   3.412649E-06
+/gps/hist/point   2.840000E+04   2.628005E-06
+/gps/hist/point   3.200000E+04   2.006975E-06
+/gps/hist/point   3.600000E+04   1.525934E-06
+/gps/hist/point   4.000000E+04   1.187585E-06
+/gps/hist/point   4.400000E+04   9.430056E-07
+/gps/hist/point   4.800000E+04   7.611450E-07
+/gps/hist/point   5.600000E+04   5.180737E-07
+/gps/hist/point   6.400000E+04   3.694262E-07
+/gps/hist/point   7.200000E+04   2.731929E-07
+/gps/hist/point   8.000000E+04   2.080614E-07
+/gps/hist/point   1.200000E+05   7.174518E-08
+/gps/hist/point   1.600000E+05   3.331093E-08
+/gps/hist/point   2.000000E+05   1.827904E-08
+/gps/hist/point   2.400000E+05   1.116472E-08
+/gps/hist/point   2.800000E+05   7.347808E-09
+/gps/hist/point   3.200000E+05   5.108984E-09
+/gps/hist/point   3.600000E+05   3.705446E-09
+/gps/hist/point   4.000000E+05   2.778801E-09
+/gps/hist/inter  Lin
+/run/beamOn 100000
+/gps/source/clear
+/gps/source/list
+#----------------------------------------------------#
+##proton
+/gps/source/intensity 1
+/gps/particle  proton
+/gps/pos/type Surface
+/gps/pos/shape  Sphere
+/gps/pos/centre 0. 0. 0. cm
+/gps/pos/radius 40. cm
+/gps/ang/type cos
+/gps/ene/type Arb
+/gps/hist/type arb
+/gps/hist/point   2.000000E+01   1.091408E+07
+/gps/hist/point   3.000000E+01   9.111796E+06
+/gps/hist/point   5.000000E+01   6.740965E+06
+/gps/hist/point   6.000000E+01   5.903915E+06
+/gps/hist/point   8.000000E+01   14.63193E+06
+/gps/hist/point   1.000000E+02   3.697881E+06
+/gps/hist/point   1.500000E+02   2.196413E+06
+/gps/hist/point   2.000000E+02   1.335059E+06
+/gps/hist/point   3.000000E+02   4.797549E+05
+/gps/hist/point   4.000000E+02   1.626578E+05
+/gps/hist/point   7.000000E+02   1.889086E+04
+/gps/hist/point   1.200000E+03   3.368326E+02
+/gps/hist/point   2.000000E+03   0.000000E+00/gps/hist/inter  Lin
+/run/beamOn 100000
+/gps/source/clear
+/gps/source/list
+#----------------------------------------------------#
+##proton
+/gps/particle  e-
+/gps/pos/type Surface
+/gps/pos/shape  Sphere
+/gps/pos/centre 0. 0. 0. cm
+/gps/pos/radius 40. cm
+/gps/ang/type cos
+/gps/ene/type Arb
+/gps/hist/type arb
+/gps/hist/point   1.000000E+00   2.074493E+08
+/gps/hist/point   1.500000E+00   5.038735E+07
+/gps/hist/point   2.000000E+00   1.321418E+07
+/gps/hist/point   2.500000E+00   4.072684E+06
+/gps/hist/point   3.000000E+00   1.529698E+06
+/gps/hist/point   3.500000E+00   6.091377E+05
+/gps/hist/point   4.000000E+00   2.572855E+05
+/gps/hist/point   4.500000E+00   1.169615E+05
+/gps/hist/point   5.000000E+00   5.586602E+04
+/gps/hist/point   5.500000E+00   2.931833E+04
+/gps/hist/point   6.000000E+00   1.703911E+04
+/gps/hist/point   6.500000E+00   1.070714E+04
+/gps/hist/point   7.000000E+00   7.190003E+03
+/gps/hist/point   8.500000E+00   2.215707E+03
+/gps/hist/point   1.000000E+01   0.000000E+00
+/gps/hist/inter  Lin
+/run/beamOn 500000
+/gps/source/clear
+/gps/source/list
